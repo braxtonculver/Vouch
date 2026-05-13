@@ -19,8 +19,9 @@ chmod +x vouch.sh
 ```
 
 Dependencies
-fzf: For the interactive search interface.
 
-curl: To fetch live data from API endpoints.
+* **fzf**: For the interactive search interface.
 
-python3: For parsing JSON responses.
+* **curl**: To fetch live data from API endpoints.
+
+* **python3**: For parsing JSON responses.
