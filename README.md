@@ -15,7 +15,8 @@ A terminal-based game compatibility checker combining ProtonDB and AreWeAntiChea
 chmod +x vouch.sh
 
 # Run the utility
-./vouch.sh```
+./vouch.sh
+```
 
 Dependencies
 fzf: For the interactive search interface.
